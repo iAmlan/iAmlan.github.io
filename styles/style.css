@@ -25,6 +25,23 @@ p,h2 {
   text-align: center;
 }
 
+h3 {
+  font-size: 16px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+h4 {
+  font-size: 16px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+h5 {
+	margin: 0;
+  font-size: 16px;    
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
 li {
   font-size: 16px;    
   line-height: 1;
